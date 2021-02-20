@@ -15,12 +15,13 @@ We are tired of not knowing who to bring up issues to about spam ads or scam ads
 You or anyone representing you - must be verified by three or more of our admins or moderators.
 
 Failure to do this - Delays in doing this - results in "Banned Level" status.
+
 Look - we can respect your desire for some privacy in some situations.
 But - you must also understand that in this globally connected world - you cant expect us to believe you hide your identity from your students.
 Stop the lame excuses for hiding who does the training or who operates your business.
+
 The process of confirmation by three or more admins is simple.
 Apply for "confirmation" of identity and select two additional admins or moderators from these below:
-
 Zeke Torres will always be on the panel of three.
 So basically you need to have some other person - vouch for you - speak and confirm who you are.
 This has to be done with one or more: Linkedin URL, Phone, Email and/or a zoom call to confirm who you are.
@@ -35,4 +36,20 @@ Any change to your ads - should be done by seeking the Confirmation team approva
 This is done to ensure YOUR ads or information are consistent with the rules.
 Ads we do not want are often "I sell stuff send me whatsapp". Those will be rejected.
 Ads with useful facts, emails, websites, linkedin etc - are highly highly encouraged.
+
+# Confirmation Process and Panel
+This is a list of Admins or Moderators that will review your request to post ads on FB groups we manage.
+You need to have three or more Admins or Moderators approve your request. 
+1 - Zeke Torres - Required Panelist
+
+From these others you must select two or more to review your application or request to post ads.
+Perry Bratis
+Stephanie H. Tysinger
+Pablo Nogueras
+Jason Brinkley
+
+What you need to do is supply these people with the correct information and ways to verify who you are.
+Its encouraged that you also supply samples of the ads you will post.
+Anything that can help us confirm that your intentions for training and work with students is transparent and reliable.
+
 
