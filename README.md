@@ -68,6 +68,14 @@ Ads with useful facts, emails, websites, linkedin etc - are highly highly encour
 |Approved Ads via Approved FB Profiles | Your request to get Ad approval must disclose WHich FB profiles respresent you |   |
 |You Can Not Block FB Group Admins     | Your profiles can not block or impede FB Group Admins from monitoring your profiles posts |  |
 
+## Suggestion 1 - Help with Question Posts
+Approved Trainers must make an honest effort to participate in group questions and topics that people post related to questions.
+This is not a "rule" - but a suggestion.  It is understood that not all trainers can always set aside resources for this.
+
+However it will be observed by all members (including Admins and Moderators) as to if "YOU" are simply here to sell and not help out.
+Your participation in the groups is to 'sell' - but we see it as a desire to participate with our community.
+Either you are helping the community - or you are not.
+One way to help is - helping with questions that newbies and freshers and other members have.
 
 
 ## Confirmation Process and Panel
