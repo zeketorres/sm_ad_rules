@@ -67,6 +67,7 @@ Ads with useful facts, emails, websites, linkedin etc - are highly highly encour
 |Follow SAS Branding Rules             | You must comply with SAS corporate branding rules and procedures.|    |
 |Approved Ads via Approved FB Profiles | Your request to get Ad approval must disclose WHich FB profiles respresent you |   |
 |You Can Not Block FB Group Admins     | Your profiles can not block or impede FB Group Admins from monitoring your profiles posts |  |
+|Ad Software - Relevant to FB Group    | Your ad must be relevant to the FB group purpose. AKA SAS training for SAS Group, NOT SAP |  |
 
 ## Suggestion 1 - Help with Question Posts
 Approved Trainers must make an honest effort to participate in group questions and topics that people post related to questions.
