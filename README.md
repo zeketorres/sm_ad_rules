@@ -1,4 +1,4 @@
-## Social Media Ad Rules
+### Social Media Ad Rules
 If you are a trainer or learning related operater you need to adhere to this.
 
 ## Contents of this page
@@ -20,6 +20,15 @@ We will categorize you into the following levels:
 |Banned 1      | No Posts/Only Reply| No Ads                             |
 |Banned 2      | No Posts/No Reply  | No Ads                             |
 |Ban Permanent | Out of Group Block | Out of All Groups - Blocked        |
+
+## List of Profiles
+These are the known list of profiles and their status.
+|Profile         | Level/Status | Affiliation/AKA | Description           |
+|----------------|--------------|-----------------|-----------------------|
+|Example Trainer | Trusted      | AKA Training    | Trainer in xyz location |
+|Other  Trainer  | Warning      | Train Group     | Trainer in USA location |
+|Limp Trainer    |Ban Permanent | Garlan Wikson   | Bad ads. Failed to comply. Zero identity. Groups do not have trust in this profile or team|
+* the above are examples as of 2/22/2021 with updates soon with current FB and SM profiles
 
 
 ## Rule 1 - Adopt the Rules
@@ -71,6 +80,7 @@ You need to have three or more Admins or Moderators approve your request.
 |Stephanie H. Tysinger |Optional          | |
 |Pablo Nogueras        |Optional          | |
 |Jason Brinkley        |Optional          | |
+* these are panelists as of 2/22/2021.  Other panelists will soon be added after they are confirmed as well.
 
 What you need to do is supply these people with the correct information and ways to verify who you are.
 You need to have some other person - vouch for you - speak and confirm who you are.
