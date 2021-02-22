@@ -69,6 +69,20 @@ Ads with useful facts, emails, websites, linkedin etc - are highly highly encour
 |You Can Not Block FB Group Admins     | Your profiles can not block or impede FB Group Admins from monitoring your profiles posts |  |
 |Ad Software - Relevant to FB Group    | Your ad must be relevant to the FB group purpose. AKA SAS training for SAS Group, NOT SAP |  |
 
+
+## Rule 5 - Posting Jobs
+We encourage posting about a job or role you know is open.
+### If your Job Post is flagged by an Admin or Moderator - Likely you need to apply for full Advertising COnfirmation.
+Our general rule for Posting Jobs are as follows:
+|Item                                 |Rule Description                                                  |    |
+|-------------------------------------|------------------------------------------------------------------|----|
+|Follow Any Other Group Rules         | You must comply with our other group rules and regulations       |    |
+|Whatsapp and "Phone" only Not Allowed| Your Ad or post must include useful facts and links to verifiable: Websites, HR people, Linkedin Profiles. Otherwise it may be deemed as spam |   |
+|Too Frequent Appear as Fishing       | If you post too many and it appears irregular or suspect - you will be asked to comply with full rules on Ads via Confirmation Process. Otherwise you will be deemed as a spammer. AKA - someone who seeks people private information via suspect job posts.  |   |
+* Note: Any member, Admin or Moderator - Is allowed to immediately report your "Job Posting" as suspect and we will remove your post and see if we will required full Confirmation Process.
+
+
+
 ## Suggestion 1 - Help with Question Posts
 Approved Trainers must make an honest effort to participate in group questions and topics that people post related to questions.
 This is not a "rule" - but a suggestion.  It is understood that not all trainers can always set aside resources for this.
