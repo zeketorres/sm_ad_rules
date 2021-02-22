@@ -60,4 +60,13 @@ This has to be done with one or more: Linkedin URL, Phone, Email and/or a zoom c
 Its encouraged that you also supply samples of the ads you will post.
 Anything that can help us confirm that your intentions for training and work with students is transparent and reliable.
 
+## Rule 4 - Mandatory Ad and FB Profile Items
+|Item                                  |Rule Description                                                  |    |
+|--------------------------------------|------------------------------------------------------------------|----|
+|Follow SAS Branding Rules             | You must comply with SAS corporate branding rules and procedures.|    |
+|Approved Ads via Approved FB Profiles | Your request to get Ad approval must disclose WHich FB profiles respresent you |   |
+
+
+
+
 
