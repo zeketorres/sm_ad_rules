@@ -55,7 +55,14 @@ You need to have three or more Admins or Moderators approve your request.
 
 What you need to do is supply these people with the correct information and ways to verify who you are.
 You need to have some other person - vouch for you - speak and confirm who you are.
-This has to be done with one or more: Linkedin URL, Phone, Email and/or a zoom call to confirm who you are.
+This has to be done with one or more:
+|Item           |Required     |Description                 |
+|---------------|-------------|----------------------------|
+|Linkedin URL   |Yes          |                            |
+|Phone Number   |Yes          |                            |
+|Email(s)       |Yes          |                            |
+|Zoom/Meeting   |Possible     |Call to confirm who you are.|
+
 
 Its encouraged that you also supply samples of the ads you will post.
 Anything that can help us confirm that your intentions for training and work with students is transparent and reliable.
