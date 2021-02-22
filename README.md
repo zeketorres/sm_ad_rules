@@ -23,11 +23,11 @@ We will categorize you into the following levels:
 
 ## List of Profiles
 These are the known list of profiles and their status.
-|Profile         | Level/Status | Affiliation/AKA | Description           |
-|----------------|--------------|-----------------|-----------------------|
-|Example Trainer | Trusted      | AKA Training    | Trainer in xyz location |
-|Other  Trainer  | Warning      | Train Group     | Trainer in USA location |
-|Limp Trainer    |Ban Permanent | Garlan Wikson   | Bad ads. Failed to comply. Zero identity. Groups do not have trust in this profile or team|
+|Profile         | Level/Status |Affiliation/AKA  | Description             |SAS Certified |RUG/LUG Recognized |
+|----------------|--------------|-----------------|-------------------------|--------------|-------------------|
+|Example Trainer | Trusted      |AKA Training     | Trainer in xyz location |Yes: SESUG, SCSUG, WUSS |Yes Link      | 
+|Other  Trainer  | Warning      |Train Group      | Trainer in USA location |Yes: SGF                |Yes Link      | 
+|Limp Trainer    |Ban Permanent |Garlan Wikson    | Bad ads. Failed to comply. Zero identity. Groups do not have trust in this profile or team| None |None | 
 * the above are examples as of 2/22/2021 with updates soon with current FB and SM profiles
 
 
