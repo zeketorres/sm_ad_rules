@@ -1,7 +1,18 @@
 ## Social Media Ad Rules
 If you are a trainer or learning related operater you need to adhere to this.
-### We will categorize you in the following levels:
 
+## Contents of this page
+If you wish to post ads, sales materials related to training and or jobs on any of our Facebook and Social Media groups, this page contains how we will verify you, your team, your ads, your material - so that you are allowed to post on any of the participating groups.
+
+|Topic                | Description |
+|---------------------|-------------|
+|Profile Levels       | Which FB or Social Media profiles are approved and for what type of ads or posts |
+|Rules for Ads        | The various rules and regulations for the profiles that post ads |
+|Confirmation Process | The way to have your team, profile - verified so you can post ads|
+
+
+### Profile Levels
+We will categorize you into the following levels:
 |Level         | Group Topic Status | Sales Ads Benefits                 |
 |--------------|--------------------|------------------------------------|
 |Trusted       | Able to Post/Reply | One Ad Mondays - One Ad Wednesdays |
@@ -41,6 +52,14 @@ This is done to ensure YOUR ads or information are consistent with the rules.
 Ads we do not want are often "I sell stuff send me whatsapp". Those will be rejected.
 Ads with useful facts, emails, websites, linkedin etc - are highly highly encouraged.
 
+## Rule 4 - Mandatory Ad and FB Profile Items
+|Item                                  |Rule Description                                                  |    |
+|--------------------------------------|------------------------------------------------------------------|----|
+|Follow SAS Branding Rules             | You must comply with SAS corporate branding rules and procedures.|    |
+|Approved Ads via Approved FB Profiles | Your request to get Ad approval must disclose WHich FB profiles respresent you |   |
+
+
+
 ## Confirmation Process and Panel
 This is a list of Admins or Moderators that will review your request to post ads on FB groups we manage.
 
@@ -66,14 +85,6 @@ This has to be done with one or more:
 
 Its encouraged that you also supply samples of the ads you will post.
 Anything that can help us confirm that your intentions for training and work with students is transparent and reliable.
-
-## Rule 4 - Mandatory Ad and FB Profile Items
-|Item                                  |Rule Description                                                  |    |
-|--------------------------------------|------------------------------------------------------------------|----|
-|Follow SAS Branding Rules             | You must comply with SAS corporate branding rules and procedures.|    |
-|Approved Ads via Approved FB Profiles | Your request to get Ad approval must disclose WHich FB profiles respresent you |   |
-
-
 
 
 
