@@ -66,6 +66,7 @@ Ads with useful facts, emails, websites, linkedin etc - are highly highly encour
 |--------------------------------------|------------------------------------------------------------------|----|
 |Follow SAS Branding Rules             | You must comply with SAS corporate branding rules and procedures.|    |
 |Approved Ads via Approved FB Profiles | Your request to get Ad approval must disclose WHich FB profiles respresent you |   |
+|You Can Not Block FB Group Admins     | Your profiles can not block or impede FB Group Admins from monitoring your profiles posts |  |
 
 
 
@@ -85,12 +86,13 @@ You need to have three or more Admins or Moderators approve your request.
 What you need to do is supply these people with the correct information and ways to verify who you are.
 You need to have some other person - vouch for you - speak and confirm who you are.
 This has to be done with one or more:
-|Item           |Required     |Description                 |
-|---------------|-------------|----------------------------|
-|Linkedin URL   |Yes          |                            |
-|Phone Number   |Yes          |                            |
-|Email(s)       |Yes          |                            |
-|Zoom/Meeting   |Possible     |Call to confirm who you are.|
+|Item               |Required     |Description                 |
+|-------------------|-------------|----------------------------|
+|Linkedin URL       |Yes          |                            |
+|Phone Number       |Yes          |                            |
+|Email(s)           |Yes          |                            |
+|Zoom/Meeting       |Possible     |Call to confirm who you are.|
+|SAS Certifications |Possible     |Any link to standard and recognized official SAS Certifications. Like: Partner Status, Training Badges etc |
 
 
 Its encouraged that you also supply samples of the ads you will post.
