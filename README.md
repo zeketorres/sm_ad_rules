@@ -68,6 +68,7 @@ Ads with useful facts, emails, websites, linkedin etc - are highly highly encour
 |Approved Ads via Approved FB Profiles | Your request to get Ad approval must disclose WHich FB profiles respresent you |   |
 |You Can Not Block FB Group Admins     | Your profiles can not block or impede FB Group Admins from monitoring your profiles posts |  |
 |Ad Software - Relevant to FB Group    | Your ad must be relevant to the FB group purpose. AKA SAS training for SAS Group, NOT SAP |  |
+|Divide The Group                      | Your ad/post - should NOT seek someone to join another group - to obtain sales information about your ad |  |
 
 
 ## Rule 5 - Posting Jobs
