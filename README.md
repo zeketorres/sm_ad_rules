@@ -43,6 +43,7 @@ The failure of them to improve demonstrates to this group of admins a lack of re
 |Learn SAS and Get A Job  | Banned 1     |Shady training ads and much to frequent - spam like |
 |Sudarshan Reddy          | Banned 1     |Shady training ads and much to frequent - spam like |
 |Sudarshan Sasclass       | Banned 1     |Shady training ads and much to frequent - spam like |
+|Sankhyana Consultancy Services| Banned 1 | Way too many ads - spam the group board. Seldom help w newbie or fresher questions |
 
 
 Permanent Ban List
