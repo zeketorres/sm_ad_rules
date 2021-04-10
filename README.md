@@ -22,13 +22,45 @@ We will categorize you into the following levels:
 |Ban Permanent | Out of Group Block | Out of All Groups - Blocked        |
 
 ## List of Profiles
-These are the known list of profiles and their status.
-|Profile         | Level/Status |Affiliation/AKA  | Description             |SAS Certified |RUG/LUG Recognized |
-|----------------|--------------|-----------------|-------------------------|--------------|-------------------|
-|Example Trainer | Trusted      |AKA Training     | Trainer in xyz location |Yes: SESUG, SCSUG, WUSS |Yes Link      | 
-|Other  Trainer  | Warning      |Train Group      | Trainer in USA location |Yes: SGF                |Yes Link      | 
-|Limp Trainer    |Ban Permanent |Garlan Wikson    | Bad ads. Failed to comply. Zero identity. Groups do not have trust in this profile or team| None |None | 
-* the above are examples as of 2/22/2021 with updates soon with current FB and SM profiles
+These are the known list of profiles we TRUST with known links to common social media platforms.
+These profiles demonstrate a desire to participate in the social media groups in a collaborative and helpful way.
+
+|Profile         | Level/Status |Affiliation/AKA  | Description   |FB  |LinkedIn | SASENSEI |
+|----------------|--------------|-----------------|---------------|-----------|---------|----------|
+|Kiran Venna     | Trusted      |Training         | Canada        |[Link](https://www.facebook.com/kiran.venna.3/?show_switched_toast=0)  |[Link](https://www.linkedin.com/in/kiran-venna-703818149/) | |
+|Sumayya Asraf   | Trusted      |Training         |               |[Link](https://www.linkedin.com/in/sumayya-asraf-03694850/) |[Link](https://www.facebook.com/sumayya.asraf/?show_switched_toast=0) | |
+
+
+PROFILES WE FIND ANNOYING - THEY WILL BE BANNED SOON
+These post training ads with no regard to group community and flood board with ads.
+These have been asked numerous times to improve their standards and have yet to do so.
+The failure of them to improve demonstrates to this group of admins a lack of respect to the community we can not tolerate much longer.
+
+|Profile                  | Level/Status | Violation Description |
+|-------------------------|--------------|-----------------------|
+|Ifocus Itsolutions       | Banned 1     |Ads not related to group topic|
+|Kanan Srivastava         | Banned 1     |Shady ads and too frequent to be of use |
+|Learn SAS and Get A Job  | Banned 1     |Shady training ads and much to frequent - spam like |
+|Sudarshan Reddy          | Banned 1     |Shady training ads and much to frequent - spam like |
+|Sudarshan Sasclass       | Banned 1     |Shady training ads and much to frequent - spam like |
+
+
+Permanent Ban List
+Profiles we have banned and likely will not allow back in.
+They ignored our repeated attempts to follow group rules.
+|Profile                       | Description |
+|------------------------------|------------------|
+|Sai Kumar                     |Shady ads - too frequent - fishes for personal information |
+|Galen Wilson                  |Shady training ads and much to frequent - spam like. Furthermore has suspect other ads. No verification of training standards |
+|Sri Rasaragni Makeup          |Shady training ads and much to frequent - spam like. Furthermore has suspect other ads. No verification of training standards |
+|Mukesh Chaudhari              |Violates Admin/Moderator requests |
+|Bas Bas                       |Ads not related to group topic|
+|Sap Hana                      |Ads not related to group topic|
+|Dsri Bangalore                |Ads not related to group topic|
+|Trendwise Analytics           |Ads not related to group topic|
+|Ducat India                   |Ads not related to group topic|
+|Ducat                         |Ads not related to group topic|
+|Galaxy Educational Consultants|Ads not related to group topic|
 
 
 ## Rule 1 - Adopt the Rules
@@ -121,6 +153,4 @@ This has to be done with one or more:
 
 Its encouraged that you also supply samples of the ads you will post.
 Anything that can help us confirm that your intentions for training and work with students is transparent and reliable.
-
-
 
