@@ -21,7 +21,10 @@ We will categorize you into the following levels:
 |Banned 2      | No Posts/No Reply  | No Ads                             |
 |Ban Permanent | Out of Group Block | Out of All Groups - Blocked        |
 
-## List of Profiles
+
+### List of Profiles
+
+## Trusted - Comply with Rules
 These are the known list of profiles we TRUST with known links to common social media platforms.
 These profiles demonstrate a desire to participate in the social media groups in a collaborative and helpful way.
 
@@ -30,7 +33,7 @@ These profiles demonstrate a desire to participate in the social media groups in
 |Kiran Venna     | Trusted      |Training         | Canada        |[Link](https://www.facebook.com/kiran.venna.3/?show_switched_toast=0)  |[Link](https://www.linkedin.com/in/kiran-venna-703818149/) | |
 |Sumayya Asraf   | Trusted      |Training         |               |[Link](https://www.linkedin.com/in/sumayya-asraf-03694850/) |[Link](https://www.facebook.com/sumayya.asraf/?show_switched_toast=0) | |
 
-
+## Banned - Soon to be Permanent Ban
 PROFILES WE FIND ANNOYING - THEY WILL BE BANNED SOON
 These post training ads with no regard to group community and flood board with ads.
 These have been asked numerous times to improve their standards and have yet to do so.
@@ -45,11 +48,10 @@ The failure of them to improve demonstrates to this group of admins a lack of re
 |Sudarshan Sasclass       | Banned 1     |Shady training ads and much to frequent - spam like |
 |Sankhyana Consultancy Services| Banned 1 | Way too many ads - spam the group board. Seldom help w newbie or fresher questions |
 
-
-Permanent Ban List
+## Permanent Ban List
 Profiles we have banned and likely will not allow back in.
 They ignored our repeated attempts to follow group rules.
-|Profile                       | Description |
+|Profile                       | Ban Description |
 |------------------------------|------------------|
 |Sai Kumar                     |Shady ads - too frequent - fishes for personal information |
 |Galen Wilson                  |Shady training ads and much to frequent - spam like. Furthermore has suspect other ads. No verification of training standards |
