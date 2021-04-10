@@ -64,6 +64,7 @@ They ignored our repeated attempts to follow group rules.
 |Ducat India                   |Ads not related to group topic|
 |Ducat                         |Ads not related to group topic|
 |Galaxy Educational Consultants|Ads not related to group topic|
+|Harshit Agrawal               |Ads not related to group topic|
 
 
 ## Rule 1 - Adopt the Rules
