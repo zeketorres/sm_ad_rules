@@ -33,6 +33,7 @@ These profiles demonstrate a desire to participate in the social media groups in
 |Kiran Venna     | Trusted      |Training         | Canada        |[Link](https://www.facebook.com/kiran.venna.3/?show_switched_toast=0)  |[Link](https://www.linkedin.com/in/kiran-venna-703818149/) | |
 |Sumayya Asraf   | Trusted      |Training         |               |[Link](https://www.linkedin.com/in/sumayya-asraf-03694850/) |[Link](https://www.facebook.com/sumayya.asraf/?show_switched_toast=0) | |
 
+
 ## Banned - Soon to be Permanent Ban
 PROFILES WE FIND ANNOYING - THEY WILL BE BANNED SOON
 These post training ads with no regard to group community and flood board with ads.
@@ -43,9 +44,6 @@ The failure of them to improve demonstrates to this group of admins a lack of re
 |-------------------------|--------------|-----------------------|
 |Ifocus Itsolutions       | Banned 1     |Ads not related to group topic|
 |Kanan Srivastava         | Banned 1     |Shady ads and too frequent to be of use |
-|Learn SAS and Get A Job  | Banned 1     |Shady training ads and much to frequent - spam like |
-|Sudarshan Reddy          | Banned 1     |Shady training ads and much to frequent - spam like |
-|Sudarshan Sasclass       | Banned 1     |Shady training ads and much to frequent - spam like |
 |Sankhyana Consultancy Services| Banned 1 | Way too many ads - spam the group board. Seldom help w newbie or fresher questions |
 
 ## Permanent Ban List
@@ -65,6 +63,17 @@ They ignored our repeated attempts to follow group rules.
 |Ducat                         |Ads not related to group topic|
 |Galaxy Educational Consultants|Ads not related to group topic|
 |Harshit Agrawal               |Ads not related to group topic|
+|Tina Tina                     |Spam Ads|
+|Learn SAS and Get A Job       |Shady training ads and much to frequent - spam like |
+|Sudarshan Reddy               |Shady training ads and much to frequent - spam like |
+|Sudarshan Sasclass            |Shady training ads and much to frequent - spam like |
+|Subhasish Ray                 |Shady training ads and much to frequent - spam like |
+|Ramu Krishna                  |Shady training ads  |
+|Raghunath Makenow             |Shady training /Shady Job ads  |
+|Preethi Makenow               |Shady training /Shady Job ads  |
+|Latha                         |Shady training ads  |
+
+
 
 
 ## Rule 1 - Adopt the Rules
