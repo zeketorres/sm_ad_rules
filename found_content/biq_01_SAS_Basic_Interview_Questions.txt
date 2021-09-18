@@ -1,0 +1,130 @@
+Basic Interview Question & Answers
+
+1. What SAS statements would you code to read an external raw data file to a DATA step?
+Ans: Infile and Input statements are used to read external raw data file to a Data Step.
+
+2. How do you read in the variable that you need?
+Ans: If we want to read a particular variable in a set of SAS data set, we can mention the variable we want in the INPUT statement.
+
+3. Are you familiar with special input delimiters? How are they used?
+Ans: Yes, we have special delimiters like DLM and DSD in SAS. Both these delimiters can be used in the Infile statement The DLM can read the commas and spaces as data delimiters. You may choose any delimiters you wish with this option. You can choose multiple character such as DLM=”XX” for your delimiter. The DSD option allows you to treat two consecutive delimiters as containing a missing value. If reading a variable length file with fixed input.
+
+4. How would you prevent SAS from reading the next record if the last variable didn’t have a value?
+Ans: We can use MISS OVER option in the INFILE statement.
+
+5. What is the difference between an informat and a format? Name three informat or format?
+Ans: An informat is an instruction that SAS uses to read data values into a variable. A format is an instruction that SAS uses to write data values.
+The three informat are: -
+A) Date informat.
+B) Character informat.
+C) Numeric informat.
+
+6. Name and describe three SAS function that u have used, if any?
+Ans: A) SUM Function: It adds the variable together by ignoring the missing values if any E.G: Var=SUM (var1, var2…varn); Var1= SUM (1,., 3) = 4.
+B) Mean Function: This function returns the arithmetic mean (average) and ignores the missing value.E.G: Var=MEAN (var1, var2, var3…varn);
+C) SUBSTR Function: The SUBSTR function extracts a portion of the character data values based on how many characters are designated for retrieval.
+E.G: Var=SUBSTR (var, start<, number of characters);Var1=SUBSTR (ASHOK, 1, 3) In the above example the SUBSTR function takes String ASHOK cuts from start-point (1) till number of Characters (3) and stores ASH in Var1
+
+7. How would you code the criteria to restrict the output to be produced?
+Ans: ods output close;
+
+8. Under what circumstances would you code a SELECT construct instead of IF statement?
+Ans: Especially if you are recoding a variable into a large number of categories.
+
+9. What statement do you code to tell SAS that it is to write to an external file?
+Ans: Filename fileref ‘path’; File fileref; Put _all_ /* will write all the variables. */Or put the variables which you require.
+
+10. If reading an external file to produce an external file, what shortcut to write record without coding every single variable on the record?
+Ans: Put _all _ .
+
+11. What is the purpose of trailing@? The @@? How would you use them?
+Ans: The trailing @ is also known as column pointer By using the trailing@, in the INPUT statement gives your ability to read a part of your raw dataline, test it, and then decide how to read additional data from the same record.
+The single trailing @ tells the SAS system to “hold the line”.
+The double Trailing @@ tells the SAS system to “Hold the line more strongly”.
+NOTE : An INPUT statement ending with @@ instructs the program to release the current raw data line only when there are no data values left to be read from that line. The @@, therefore, hold the input record even across multiple iteration of the data step.
+
+12. If you do not want any SAS output from a data step, how would you code the data statement to prevent SAS from producing a set?
+Ans: By using DATA _NULL_ the desired output is a file and not a SAS dataset.
+
+13. What is the one statement to set the criteria of a data that can be coded in any step?
+Ans: Options statement.
+
+14. Have you ever-linked SAS code? If so, describe the like and any required statement used to either process the code or the step itself?
+Ans: The link statement tells SAS to jump immediately to the statement label that is indicated in the Label statement and to continue executing statements from that point until a RETURN statement is executed.  The RETURN statement ends program control to the statement immediately following the LINK statement.
+Note: The LINK statement and the destination must be in the same DATA step. The destination is identified by a statement label in the LINK statement.
+
+15. How would you include common or reuse code to be processed along with your statement?
+Ans: By using %Include.
+
+16. When looking for the data contained in a character string of 150 bytes, which function is the best to locate that data: scan, index or indexc?
+Ans: Scan.
+
+17. If you have a data set that contains 100 variables, but you need only five of those, what is the code to force SAS to use only those variables?
+Ans: Use keep = option;
+
+18.How would you delete duplicate observation? Ans: There are three ways to delete duplicate observations in a dataset?
+Ans:
+1) Proc sort data=SAS-data-set nodups; by var; run;
+2) Proc sql;
+       Create sas-data-set as
+       select * from old_sas_data_set
+       where var=distinct(var);
+   quit;
+3) Data clean;
+Set temp;
+By group;
+If first .group and last.group then Run;
+
+19. How would you code a merge that will keep only the observation that have matches form both sets?
+Ans: By using the IN internal variable in the merge statement.
+DATA NEW;
+MERGE ONE_TEMP (IN=ONE) TWO_TEMP (IN=TWO);
+BY NAME;
+IF ONE=1 AND TWO=1;
+RUN;
+
+20. What is the effect of the OPTION statement ERROR=1?
+Ans: If the particular data step has one or more errors then end the processing.
+
+21. What do the SAS log messages “numeric values have been converted to character” mean?
+Ans: If we try some character function on the numeric values the SAS will automatically convert the numeric variable into character variable.
+
+22. Why is a STOP statement needed for a POINT=option on a SET statement?
+Ans: Because POINT= reads only the specified observations, SAS cannot detect an end-of-file condition as it would if the file were being read sequentially. Because detecting an end-of-file condition terminates a DATA step automatically, failure to substitute another means of terminating the DATA step when you use POINT= can cause the DATA step to go into a continuous loop.
+
+NOTE: You cannot use the POINT= option with any of the following: BY statement WHERE statement WHERE= data set option transport format data sets sequential data sets (on tape or disk) a table from another vendor's relational database management system.
+
+23. How do you control the number of observation and /or variable read or write?
+Ans: By specifying obs option.
+
+24. Approximately what date is represented by the SAS date value of 730?
+Ans: 1 January 1962.
+
+25. How would remove a format that has been permanently associated with a variable.
+Ans: By Using proc datasets library= some library; Modify sasdataset; Run;
+
+26. What does the RUN statement do?
+Ans: The run statement executes the statement.
+
+27. Briefly describe 5 ways to do a “table lookup” in SAS.
+Ans:  1) Simple table lookup (merging (merge (including IN=OPTION) and sub setting IF statement)
+
+2) Simple table lookup (formats (PROC FORMAT AND PUT function).
+
+3) Looking up with two variable (merging (merge(including IN=OPTION) and sub setting IF statement)
+
+4) Looking up with two variable ((formats (PROCFORMAT, PUT AND INPUT Function)
+
+5) A two-way Looking table (merge statement using two variables).
+
+
+28. What are some good SAS programming practices for processing vary large data set?
+Ans: For vary large data set with many variables we can make use of arrays in the SAS system.
+
+
+29. How would you create a data set with 1 observation and 30variables from a data set with 30 observations and 1Variable?
+Ans: Using Proc Transpose and also do with the sas arrays.
+
+
+30. What are _numeric_ and _character_ and what do they do?
+Ans: If we want to do a particular task for all the numeric variable we can use the _numeric_ and same as if we want to do a particular task for all the character variable we can use the _character_.
