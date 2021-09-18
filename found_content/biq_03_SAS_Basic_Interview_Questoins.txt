@@ -1,0 +1,69 @@
+Basic Interview Questions
+
+Base SAS:
+ 1.   What is the Program Data Vector (PDV)? What are its functions?
+ 2.   Does SAS ‘Translate’ (compile) or does it ‘Interpret’? Explain?
+ 3.   At compile time when a SAS data set is read, what items are created? 
+ 4.   Name statements that are recognized at compile time only?
+ 5.   Identify statements whose placement in the DATA step is critical?
+ 6.   Name statements that function at both compile and execution time?
+ 7.   Name statements that are execution only?
+ 8.   In the flow of DATA step processing, what is the first action in a typical DATA Step?
+ 9.   What is _n_?
+10.   Why is SAS considered self-documenting?
+11.   What areas of SAS are you most interested in?
+12.   Briefly describe 5 ways to do a "table lookup" in SAS.
+13.   What versions of SAS have you used (on which platforms)?
+14.   What are some good SAS programming practices for processing very large data sets?
+15.   What is the effect of the OPTIONS statement ERRORS=1?
+16.   What’s the difference between VAR A1 - A4 and VAR A1 — A4?
+17.   What do the SAS log messages "numeric values have been converted to character" mean? What are the implications?
+18.   Why is a STOP statement needed for the POINT= option on a SET statement?
+19.   How do you control the number of observations and/or variables read or written?
+20.   Approximately what date is represented by the SAS date value of 730?
+21.   How would you remove a format that has been permanently associated with a variable?
+22.   What does the RUN statement do?
+23.   If you have a data set that contains 100 variables, but you need only five of those, what is the code to force SAS to use only those variable?
+24.   Code a PROC SORT on a data set containing State, District and County as the primary variables, along with several numeric variables?
+25.   How would you delete duplicate observations?
+26.   How would you delete observations with duplicate keys?
+27.   How would you code a merge that will keep only the observations that have matches from both sets?
+28.   How would you code a merge that will write the matches of both to one data set, the non-matches from the left-most data set to a second data set, and the non-matches of the right-most data set to a third data set?
+29.   How would you create a data set with 1 observation and 30 variables from a data set with 30 observations and 1 variable?
+30.   What is the different between functions and PROCs that calculate the same simple descriptive statistics?
+31.   If you were told to create many records from one record, show how you would do this using arrays and with PROC TRANSPOSE?
+32.   What are _numeric_ and _character_ and what do they do?
+33.   How would you create multiple observations from a single observation?
+34.   For what purpose would you use the RETAIN statement?
+35.   What is a method for assigning first.VAR and last.VAR to the BY group variable on unsorted data?
+36.   What is the order of application for output data set options, input data set options and SAS statements?
+37.   What is the order of evaluation of the comparison operators: + - * / ** ( ) ?
+38.   How could you generate test data with no input data?
+39.   How do you debug and test your SAS programs?
+40.   What can you learn from the SAS log when debugging?
+41.   What is the purpose of _error_?
+42.   How can you put a "trace" in your program?
+43.   Are you sensitive to code walk-throughs, peer review, or QC review?
+44.   Have you ever used the SAS Debugger?
+45.   What other SAS features do you use for error trapping and data validation?
+46.   How does SAS handle missing values in: assignment statements, functions, a merge, an update, sort order, formats, PROCs?
+47.   How many missing values are available? When might you use them?
+48.   How do you test for missing values?
+49.   How are numeric and character missing values represented internally?
+50.   What SAS statements would you code to read an external raw data file to a DATA step?
+51.   How do you read in the variables that you need?
+52.   Are you familiar with special input delimiters? How are they used?
+53.   If reading a variable length file with fixed input, how would you prevent SAS from reading the next record if the last variable didn’t have a value?
+54.   What is the difference between an informat and a format? Name three informats or formats.
+55.   Name and describe three SAS functions that you have used, if any?
+56.   How would you code the criteria to restrict the output to be produced?
+57.   What is the purpose of the trailing @? The @@? How would you use them?
+58.   Under what circumstances would you code a SELECT construct instead of IF statements?
+59.   What statement do you code to tell SAS that it is to write to an external file? What statement do you code to write the record to the file?
+60.   If reading an external file to produce an external file, what is the shortcut to write that record without coding every single variable on the record?
+61.   If you’re not wanting any SAS output from a data step, how would you code the data statement to prevent SAS from producing a set?
+62.   What is the one statement to set the criteria of data that can be coded in any step?
+63.   Have you ever linked SAS code? If so, describe the link and any required statements used to either process the code or the step itself?
+64.   How would you include common or reuse code to be processed along with your statements?
+65.   When looking for data contained in a character string of 150 bytes, which function is the best to locate that data: scan, index, or indexc?
+66.   What are some problems you might encounter in processing missing values? In Data steps? Arithmetic? Comparisons? Functions? Classifying data?

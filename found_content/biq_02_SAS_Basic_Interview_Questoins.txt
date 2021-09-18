@@ -1,0 +1,104 @@
+Basic Interview Question Answers
+
+1. What are some of the differences between a WHERE and an IF statement?
+·         IF can only be used in a DATA step
+·         Many IF statements can be used in one DATA step
+·         must read the record into the program data vector to perform selection with IF
+·         WHERE can be used in a DATA step as well as a PROC.
+·         A second WHERE will replace the first unless the option ALSO is used
+·         Data subset prior to reading record into PDV with WHERE
+
+2. Name some of the ways to create a macro variable
+·         %let
+·         CALL SYMPUT (....)
+·         when creating a macro example:
+·         %macro mymacro(a=,b=);
+·         in SQL using INTO
+
+3. What is the difference between proc means and proc univariate?
+·         Both procedure produce descriptive statistics. By proc univariate, by default it produces all the statistics (some time not all required) but in proc means it is possible to request the statistics that we want. With proc univariate you can generate histograms (graphs) for particular variables. You can't with proc means.
+
+4. What is the difference between an informat and a format? Name three informats or formats.
+·         Informat to read the date. Format to write the data.
+
+5. How would you delete observations with duplicate keys?
+·         use PROC SORT with the option NODUPKEY
+
+6. Which program displays a listing of all data sets in the SASUSER library?
+·         proc contents data = sasuser._all_; run;
+
+7. What is the maximum character of SAS library name?
+·         A valid library name must start with an alphabet and cannot have more than 8 characters.
+
+8. What are the most commonly specified options in SAS system?
+·         errors = n; compress = yes, reuse = yes, obs = n, nodate, mlogic, mprint, symbolgen
+
+
+9. What are the Common SAS log notes and warnings?
+·         NOTE: Missing values were generated as a result of performing an operation on missing values.
+·         NOTE: MERGE statement has more than one data set with repeats of BY values.
+·         WARNING: Multiple lengths were specified for the BY variable emp_id by input data sets. This may cause unexpected results.
+·         WARNING: The variable x in the DROP, KEEP, or RENAME list has never been referenced
+·         NOTE: Variable var1 is uninitialized.
+·         NOTE: Numeric values have been converted to character values at the places given by: (Line):(Column). 52:8
+·         NOTE: Character values have been converted to numeric values at the places given by: (Line):(Column).55:9
+
+10. What is the function to convert variables from numeric to character and character to numeric?
+·         Convert from numeric to character with the PUT function Character-variable = put (numeric-variable, format.);
+·         Convert from character to numeric with the INPUT function Numeric-variable = input (character-variable, informat.);
+
+11. How is Proc SQL different from SAS?
+·         The SQL procedure is a very effective method of sorting, counting, and selecting data that does not require the same amount of processing resources or time as traditional procedures
+·         SQL looks at datasets differently from SAS
+·         SAS looks at a dataset one record at a time, using an implied loop that moves from the first record to the last.
+·         SQL looks at all the records, as a single object.
+·         Because of this difference SQL can easily do a few things that are more difficult to do in SAS PROC SQL is an additional tool with its own strengths and challenges.
+·         The SQL procedure can be a very efficient tool to use when processing very large data sets. It also minimizes the number of steps that need to be written to perform a task. SQL saves processing time, programmer time and memory used.
+
+12. SQL - Combining Datasets: Joins
+·         Full join, Inner join, Left join, Right join, and Cartesian join
+·         Proc SQL; Create table d3 as Select * From d1 Full join d2 On d1.var=d2.var; Quit;
+·         SQL allows merging (joining) where key variables have different names
+·         SQL does not require sorting
+
+
+13. Can you tell us the commonly base procedure that you used in last one year?
+·         Report Writing Procedures - PRINT, FREQ, MEANS, SUMMARY, TABULATE, PLOT, SQL
+·         Statistical Procedures – CHART, FREQ, MEANS, CORR, SQL, SUMMARY, UNIVARIATE
+·         Utility Procedures – EXPORT, IMPORT, APPEND, CONTENTS, DATASETS, SORT, TRANSPOSE
+
+14. Can you give some example of Character functions like Substr and Scan?
+·         Syntax: X = substr(argument,position,n)
+·         b. Y = “substring” , “developer”  X = substr(Y,4,3) , substr(Y,4,5)
+·         X = “str” , “elope”
+·         Syntax: X = scan(argument,n,delimiters)
+·         e. Y = “C and Y” , “dilligent”    X = scan(Y,2,” ”) , scan(Y,3,”i”)
+·         f. X = “and” , “gent”
+
+15. What happens if you don’t use a ‘BY’ statement in your MERGE?
+·         a. While merging if you don’t use a ‘BY’ statement; SAS will merge the 1st observation from dataset A and 1st observation from dataset B to form the 1st observation of the final dataset
+·         b. Do not miss out on the ‘BY’ statement. It might lead to useless results.
+
+16. List differences between SAS PROCs and the SAS DATA STEP?
+·         a. Procs are sub-routines with a specific purpose in mind and the data step is designed to read in and manipulate data.
+
+17. What is the order of select statement in SQL?
+·         When you construct a SELECT statement, you must specify the clauses in the following order:
+·         SELECT
+·         FROM
+·         WHERE
+·         GROUP BY
+·         HAVING
+·         ORDER BY
+
+18. How do you eliminate duplicate rows from the query results?
+·         You can eliminate the duplicate rows from the results by using the DISTINCT keyword in the SELECT clause.
+
+19. How to drop or keep columns in SQL?
+·         Through SELECT
+
+20. How to rename column in SQL?
+·         a. Through AS
+
+21. What is the use of CASE expression in SQL?
+·         a. You can use conditional logic within a query by using a CASE expression to conditionally assign a value. You can use a CASE expression anywhere that you can use a column name.
