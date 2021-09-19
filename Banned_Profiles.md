@@ -37,3 +37,20 @@ They ignored our repeated attempts to follow group rules.
 
 
 Our group policy and other details can be found at [LINK](https://github.com/zeketorres/sm_ad_rules)
+
+## Tips and Things to be Aware of
+- The ad should post prices.
+- The ad should post reliable URL to Linkedin, Web etc for key trainers and service companies.
+- The ad should post details of what you might purchase.
+- The ad SHOULD NOT ask for your personal email, phone etc - just so you can get that basic information.
+
+## Things to Ask yourself
+- IF that 'trainer' is so great - why so desperate to that they post multiple ads a day? They should be busy helping students?
+- IF they are so "great" at training - Why no help or zero help to newbie/fresher questions on the group?
+- IF they are so "great" at training - Who is the trainer? What are their credentials? Where can you find them to see who is going to train you?
+
+## For "Paid Content" ads...
+- Often you can find that information they are selling - if you search. Free. You are paying for something you dont need to pay for.
+- PDF's are easily accessible via a search - you are going to pay for something already available.
+- Content is often taken from the legit authors and sold - so the author is missing a chance at earning a living. But - that means the author may not wish to create more future content since they see their work taken, stolen.
+
