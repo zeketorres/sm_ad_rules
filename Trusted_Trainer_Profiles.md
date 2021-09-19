@@ -4,13 +4,13 @@
 These are the known list of profiles we TRUST with known links to common social media platforms.
 These profiles demonstrate a desire to participate in the social media groups in a collaborative and helpful way.
 
-|Profile             | Level/Status |Affiliation/AKA  | Description   |FB                                             |LinkedIn                                                   | SASENSEI |
-|--------------------|--------------|-----------------|---------------|-----------------------------------------------|-----------------------------------------------------------|----------|
-|Kiran Venna         | Trusted      |Training         | Canada        |[Link](https://www.facebook.com/kiran.venna.3/)|[Link](https://www.linkedin.com/in/kiran-venna-703818149/) |          |
-|Sumayya Asraf       | Trusted      |Training         |               |[Link](https://www.facebook.com/sumayya.asraf/)|[Link](https://www.linkedin.com/in/sumayya-asraf-03694850/)|          |
-|Venkat Clinical SAS | Trusted      |Training         |               |[Link](https://www.facebook.com/sasvenkat11/  )|                                                           |          |
-|Clinosoft HR        | Trusted      |Training         |               |[Link](https://www.facebook.com/clinosoft.hr/ )|                                                           |          |
-
+|Profile             | Level/Status |Affiliation/AKA  | Description   |FB                                              |Youtube                                                            |LinkedIn                                                   | SASENSEI |
+|--------------------|--------------|-----------------|---------------|------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------|----------|
+|Kiran Venna         | Trusted      |Training         | Canada        |[Link](https://www.facebook.com/kiran.venna.3/) |[Link](https://www.youtube.com/user/kiranvenna)                    |[Link](https://www.linkedin.com/in/kiran-venna-703818149/) |          |
+|Sumayya Asraf       | Trusted      |Training         |               |[Link](https://www.facebook.com/sumayya.asraf/) |[Link](https://www.youtube.com/channel/UCWT4stUuOjMVEp3E7xcCCDQ)   |[Link](https://www.linkedin.com/in/sumayya-asraf-03694850/)|          |
+|Venkat Clinical SAS | Trusted      |Training         |               |[Link](https://www.facebook.com/sasvenkat11/  ) |                                                                   |                                                           |          |
+|Clinosoft HR        | Trusted      |Training         |               |[Link](https://www.facebook.com/clinosoft.hr/ ) |                                                                   |                                                           |          |
+|Sameer Verma        | Trusted      |Youtube Training |               |                                                |[Link](https://www.youtube.com/channel/UCArCI8B7Vlls-HNH-UqW68A)   |                                                           |          |
 
 ## List of Resources We've gathered...
 - [Content PDFS](https://github.com/zeketorres/sm_ad_rules/tree/main/found_content)                   
