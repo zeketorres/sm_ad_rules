@@ -4,6 +4,12 @@
 These are the known list of profiles we TRUST with known links to common social media platforms.
 These profiles demonstrate a desire to participate in the social media groups in a collaborative and helpful way.
 
+### Note and Stipulations:
+- This is not an endorsement. Its a statement that these profiles are complying with rules.
+- There are numerous other trainers that we will add here. If they are not present but wish to be added contact me.
+- We suggest in any purchase of training or services that you investigate the team, person you are going to purchase from regardless if they are on this list.
+
+
 |Profile             | Level/Status |Affiliation/AKA  | Description   |FB                                             |LinkedIn                                                   | SASENSEI |
 |--------------------|--------------|-----------------|---------------|-----------------------------------------------|-----------------------------------------------------------|----------|
 |Kiran Venna         | Trusted      |Training         | Canada        |[Link](https://www.facebook.com/kiran.venna.3/)|[Link](https://www.linkedin.com/in/kiran-venna-703818149/) |          |
