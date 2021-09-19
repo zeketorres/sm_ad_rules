@@ -9,8 +9,10 @@ If you wish to post ads, sales materials related to training and or jobs on any 
 |Profile Levels       | Which FB or Social Media profiles are approved and for what type of ads or posts |
 |Rules for Ads        | The various rules and regulations for the profiles that post ads |
 |Confirmation Process | The way to have your team, profile - verified so you can post ads|
-|Content PDFS         | Alert - 9/18 - I gathered some content to share  [Link](https://github.com/zeketorres/sm_ad_rules/tree/main/found_content) |
-|List of Groups       | [Link]( ) List of Groups we Admin/Moderate in our Alliance |
+|[Content PDFS](https://github.com/zeketorres/sm_ad_rules/tree/main/found_content)                   | Alert - 9/18 - I gathered some content to share  [Link](https://github.com/zeketorres/sm_ad_rules/tree/main/found_content) |
+|[List of Groups](https://github.com/zeketorres/sm_ad_rules/blob/main/Alliance_Group_Public_List.md )| List of Groups we Admin/Moderate in our Alliance |
+|[Other Trusted Content](https://github.com/zeketorres/sm_ad_rules/blob/main/Trusted_Content.md)| Other Trusted Content, Media, Links we've found |
+
 
 
 ### Profile Levels
