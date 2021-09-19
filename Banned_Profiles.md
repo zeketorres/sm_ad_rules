@@ -1,14 +1,11 @@
 ### FB Profiles we Banned/Blocked
-These profiles violated our rules too many times.
-Either on our boards or - on boards that are not related to us.
+- These profiles violated our rules too many times.
+- These have been asked numerous times to improve their standards and have yet to do so.
+- Either on our boards or - on boards that are not related to us.
 - Basically they may be following rules on our fb groups (or not) but on other groups - they are spamming hard.
-
-
-## PROFILES WE FIND ANNOYING - THEY WILL BE BANNED SOON
-These post training ads with no regard to group community and flood board with ads.
-These have been asked numerous times to improve their standards and have yet to do so.
-The failure of them to improve demonstrates to this group of admins a lack of respect to the communities we are on.
-Profiles we have banned and likely will not allow back in.
+- These post training ads with no regard to group community and flood board with ads.
+- The failure of them to improve demonstrates to this group of admins a lack of respect to the communities we are on.
+- Profiles we have banned and likely will never be allow back in.
 
 They ignored our repeated attempts to follow group rules.
 |Profile                       | Ban Description |
