@@ -56,3 +56,7 @@ Our group policy and other details can be found at [LINK](https://github.com/zek
 - PDF's are easily accessible via a search - you are going to pay for something already available.
 - Content is often taken from the legit authors and sold - so the author is missing a chance at earning a living. But - that means the author may not wish to create more future content since they see their work taken, stolen.
 
+## List of Resources We've gathered...
+- [Content PDFS](https://github.com/zeketorres/sm_ad_rules/tree/main/found_content)                   
+- [Other Trusted Content](https://github.com/zeketorres/sm_ad_rules/blob/main/Trusted_Content.md)
+
