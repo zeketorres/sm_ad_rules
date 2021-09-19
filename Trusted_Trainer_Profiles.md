@@ -12,6 +12,11 @@ These profiles demonstrate a desire to participate in the social media groups in
 |Clinosoft HR        | Trusted      |Training         |               |[Link](https://www.facebook.com/clinosoft.hr/ ) |                                                                   |                                                           |          |
 |Sameer Verma        | Trusted      |Youtube Training |               |                                                |[Link](https://www.youtube.com/channel/UCArCI8B7Vlls-HNH-UqW68A)   |                                                           |          |
 
+### Note and Stipulations:
+- This is not an endorsement. Its a statement that these profiles are complying with rules.
+- There are numerous other trainers that we will add here. If they are not present but wish to be added contact me.
+- We suggest in any purchase of training or services that you investigate the team, person you are going to purchase from regardless if they are on this list.
+
 ## List of Resources We've gathered...
 - [Content PDFS](https://github.com/zeketorres/sm_ad_rules/tree/main/found_content)                   
 - [Other Trusted Content](https://github.com/zeketorres/sm_ad_rules/blob/main/Trusted_Content.md)
