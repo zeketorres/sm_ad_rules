@@ -14,33 +14,33 @@
 - That you consider these profiles below as ones that have been banned from our groups and likely now hitting your group with spam ads harder.
 
 They ignored our repeated attempts to follow group rules.
-|Profile                       | Ban Description |
-|------------------------------|------------------|
-|Sai Kumar                     |Shady ads - too frequent - fishes for personal information |
-|Joshimedicode                 |Way too many ads - spam the group board. Seldom help w newbie or fresher questions |
+|Profile                       | Ban Description                                                                                                              |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+|Sai Kumar                     |Shady ads - too frequent - fishes for personal information                                                                    |
+|Joshimedicode                 |Way too many ads - spam the group board. Seldom help w newbie or fresher questions                                            | 
 |Galen Wilson                  |Shady training ads and much to frequent - spam like. Furthermore has suspect other ads. No verification of training standards |
 |Sri Rasaragni Makeup          |Shady training ads and much to frequent - spam like. Furthermore has suspect other ads. No verification of training standards |
-|Mukesh Chaudhari              |Violates Admin/Moderator requests |
-|Bas Bas                       |Ads not related to group topic|
-|Sap Hana                      |Ads not related to group topic|
-|Dsri Bangalore                |Ads not related to group topic|
-|Trendwise Analytics           |Ads not related to group topic|
-|Ducat India                   |Ads not related to group topic|
-|Ducat                         |Ads not related to group topic|
-|Galaxy Educational Consultants|Ads not related to group topic|
-|Harshit Agrawal               |Ads not related to group topic|
-|Tina Tina                     |Spam Ads|
-|Learn SAS and Get A Job       |Shady training ads and much to frequent - spam like |
-|Sudarshan Reddy               |Shady training ads and much to frequent - spam like |
-|Sudarshan Sasclass            |Shady training ads and much to frequent - spam like |
-|Subhasish Ray                 |Shady training ads and much to frequent - spam like |
-|Ramu Krishna                  |Shady training ads  |
-|Raghunath Makenow             |Shady training /Shady Job ads  |
-|Preethi Makenow               |Shady training /Shady Job ads  |
-|Latha                         |Shady training ads  |
-|Ifocus Itsolutions            |Ads not related to group topic|
-|Kanan Srivastava              |Shady ads and too frequent to be of use |
-|Sankhyana Consultancy Services|Way too many ads - spam the group board. Seldom help w newbie or fresher questions |
+|Mukesh Chaudhari              |Violates Admin/Moderator requests                                                                                             |
+|Bas Bas                       |Ads not related to group topic                                                                                                |
+|Sap Hana                      |Ads not related to group topic                                                                                                |
+|Dsri Bangalore                |Ads not related to group topic                                                                                                |
+|Trendwise Analytics           |Ads not related to group topic                                                                                                |
+|Ducat India                   |Ads not related to group topic                                                                                                |
+|Ducat                         |Ads not related to group topic                                                                                                |
+|Galaxy Educational Consultants|Ads not related to group topic                                                                                                |
+|Harshit Agrawal               |Ads not related to group topic                                                                                                |
+|Tina Tina                     |Spam Ads                                                                                                                      |
+|Learn SAS and Get A Job       |Shady training ads and much to frequent - spam like                                                                           |
+|Sudarshan Reddy               |Shady training ads and much to frequent - spam like                                                                           |
+|Sudarshan Sasclass            |Shady training ads and much to frequent - spam like                                                                           |
+|Subhasish Ray                 |Shady training ads and much to frequent - spam like                                                                           |
+|Ramu Krishna                  |Shady training ads                                                                                                            |
+|Raghunath Makenow             |Shady training /Shady Job ads                                                                                                 |
+|Preethi Makenow               |Shady training /Shady Job ads                                                                                                 |
+|Latha                         |Shady training ads                                                                                                            |
+|Ifocus Itsolutions            |Ads not related to group topic                                                                                                |
+|Kanan Srivastava              |Shady ads and too frequent to be of use                                                                                       |
+|Sankhyana Consultancy Services|Way too many ads - spam the group board. Seldom help w newbie or fresher questions                                            |
 
 
 Our group policy and other details can be found at [LINK](https://github.com/zeketorres/sm_ad_rules)
