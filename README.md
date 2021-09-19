@@ -16,7 +16,7 @@ If you wish to post ads, sales materials related to training and or jobs on any 
 
 ### List of Profiles
 
-## Banned - Soon to be Permanent Ban
+## Banned - Soon to be Permanent Ban - [Click](https://github.com/zeketorres/sm_ad_rules/blob/main/Banned_Profiles.md)
 - PROFILES WE FIND ANNOYING - THEY WILL BE BANNED SOON OR ARE BANNED.
 - These post training ads with no regard to group community and flood board with ads.
 - These have been asked numerous times to improve their standards and have yet to do so.
