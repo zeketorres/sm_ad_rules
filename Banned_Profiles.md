@@ -11,6 +11,7 @@ They ignored our repeated attempts to follow group rules.
 |Profile                       | Ban Description |
 |------------------------------|------------------|
 |Sai Kumar                     |Shady ads - too frequent - fishes for personal information |
+|Joshimedicode                 |Way too many ads - spam the group board. Seldom help w newbie or fresher questions |
 |Galen Wilson                  |Shady training ads and much to frequent - spam like. Furthermore has suspect other ads. No verification of training standards |
 |Sri Rasaragni Makeup          |Shady training ads and much to frequent - spam like. Furthermore has suspect other ads. No verification of training standards |
 |Mukesh Chaudhari              |Violates Admin/Moderator requests |
