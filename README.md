@@ -6,7 +6,7 @@ If you wish to post ads, sales materials related to training and or jobs on any 
 
 |Topic                                                                                               | Description |
 |----------------------------------------------------------------------------------------------------|-------------|
-|Profile Levels                                                                                      | Which FB or Social Media profiles are approved and for what type of ads or posts |
+|List of Profiles                                                                                    | Which FB or Social Media profiles are approved and for what type of ads or posts |
 |Rules for Ads                                                                                       | The various rules and regulations for the profiles that post ads |
 |Confirmation Process                                                                                | The way to have your team, profile - verified so you can post ads|
 |[Content PDFS](https://github.com/zeketorres/sm_ad_rules/tree/main/found_content)                   | Alert - 9/18 - I gathered some content to share  [Link](https://github.com/zeketorres/sm_ad_rules/tree/main/found_content) |
@@ -14,30 +14,7 @@ If you wish to post ads, sales materials related to training and or jobs on any 
 |[Other Trusted Content](https://github.com/zeketorres/sm_ad_rules/blob/main/Trusted_Content.md)     | Other Trusted Content, Media, Links we've found |
 
 
-
-### Profile Levels
-We will categorize you into the following levels:
-|Level         | Group Topic Status | Sales Ads Benefits                 |
-|--------------|--------------------|------------------------------------|
-|Trusted       | Able to Post/Reply | One Ad Mondays - One Ad Wednesdays |
-|Warning       | Able to Post/Reply | One Ad Mondays Only                |
-|Banned 1      | No Posts/Only Reply| No Ads                             |
-|Banned 2      | No Posts/No Reply  | No Ads                             |
-|Ban Permanent | Out of Group Block | Out of All Groups - Blocked        |
-
-
 ### List of Profiles
-
-## Trusted - Comply with Rules
-These are the known list of profiles we TRUST with known links to common social media platforms.
-These profiles demonstrate a desire to participate in the social media groups in a collaborative and helpful way.
-
-|Profile             | Level/Status |Affiliation/AKA  | Description   |FB  |LinkedIn | SASENSEI |
-|--------------------|--------------|-----------------|---------------|-----------|---------|----------|
-|Kiran Venna         | Trusted      |Training         | Canada        |[Link](https://www.facebook.com/kiran.venna.3/)|[Link](https://www.linkedin.com/in/kiran-venna-703818149/) | |
-|Sumayya Asraf       | Trusted      |Training         |               |[Link](https://www.facebook.com/sumayya.asraf/)|[Link](https://www.linkedin.com/in/sumayya-asraf-03694850/)| |
-|Venkat Clinical SAS | Trusted      |Training         |               |[Link](https://www.facebook.com/sasvenkat11/  )|                                                           | |
-|Clinosoft HR        | Trusted      |Training         |               |[Link](https://www.facebook.com/clinosoft.hr/ )|                                                           | |
 
 ## Banned - Soon to be Permanent Ban
 - PROFILES WE FIND ANNOYING - THEY WILL BE BANNED SOON OR ARE BANNED.
@@ -46,6 +23,8 @@ These profiles demonstrate a desire to participate in the social media groups in
 - The failure of them to improve demonstrates to this group of admins a lack of respect to the community we can not tolerate much longer.
 - Check out why these are banned.
 [List of Banned Profiles](https://github.com/zeketorres/sm_ad_rules/blob/main/Banned_Profiles.md)     
+
+## Trusted Trainers that Comply with Rules [List of Profiles](https://github.com/zeketorres/sm_ad_rules/blob/main/Trusted_Trainer_Profiles.md)     
 
 
 ## Rule 1 - Adopt the Rules
