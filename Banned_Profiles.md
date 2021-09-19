@@ -7,6 +7,12 @@
 - The failure of them to improve demonstrates to this group of admins a lack of respect to the communities we are on.
 - Profiles we have banned and likely will never be allow back in.
 
+## To other Admins/Moderators
+- We have an alliance of groups working together to improve each group quality and content for our members.
+- You dont need to be in our group to benefit.
+- All we ask is that you consider applying the same style rules and also...
+- That you consider these profiles below as ones that have been banned from our groups and likely now hitting your group with spam ads harder.
+
 They ignored our repeated attempts to follow group rules.
 |Profile                       | Ban Description |
 |------------------------------|------------------|
@@ -60,3 +66,16 @@ Our group policy and other details can be found at [LINK](https://github.com/zek
 - [Content PDFS](https://github.com/zeketorres/sm_ad_rules/tree/main/found_content)                   
 - [Other Trusted Content](https://github.com/zeketorres/sm_ad_rules/blob/main/Trusted_Content.md)
 
+## Check out Three Freelance Trainers - Discussing Training Ads and Training Topics
+This is found on our [Other Trusted Content](https://github.com/zeketorres/sm_ad_rules/blob/main/Trusted_Content.md)
+
+|Title/Content                                    |Type     |Link                                               |
+|-------------------------------------------------|---------|---------------------------------------------------|
+|Freelance Trainers Giving Advice to Students     |Youtube  | [Link](https://youtu.be/5ZgzAdAPaMo)              |
+
+## To Banned - Flawed Trainers
+We are NOT against trainers - we work to improve the groups.
+- Others have started following our rules.
+- Others have adapted and working to improve.
+- Your consistent failure to follow our rules got you banned/blocked.
+- Even if you follow rules on our groups - but VIOLATE our rules - in other groups we dont manage - that is enough to get you ban/blocked. Your professional behavior is expected in any group.
