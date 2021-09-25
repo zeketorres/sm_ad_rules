@@ -54,3 +54,14 @@ This is found on our [Other Trusted Content](https://github.com/zeketorres/sm_ad
 |Freelance Trainers Giving Advice to Students     |Youtube  | [Link](https://youtu.be/5ZgzAdAPaMo)              |
 
 
+
+## Banned - Soon to be Permanent Ban - [Click](https://github.com/zeketorres/sm_ad_rules/blob/main/Banned_Profiles.md)
+- PROFILES WE FIND ANNOYING - THEY WILL BE BANNED SOON OR ARE BANNED.
+- These post training ads with no regard to group community and flood board with ads.
+- These have been asked numerous times to improve their standards and have yet to do so.
+- The failure of them to improve demonstrates to this group of admins a lack of respect to the community we can not tolerate much longer.
+- Check out why these are banned.
+[List of Banned Profiles](https://github.com/zeketorres/sm_ad_rules/blob/main/Banned_Profiles.md)     
+
+## Trusted Trainers that Comply with Rules [List of Profiles](https://github.com/zeketorres/sm_ad_rules/blob/main/Trusted_Trainer_Profiles.md)     
+
