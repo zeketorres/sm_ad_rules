@@ -43,7 +43,6 @@
 
 
 ## List of Resources We've gathered...
-- [Content PDFS](https://github.com/zeketorres/sm_ad_rules/tree/main/found_content)                   
 - [Other Trusted Content](https://github.com/zeketorres/sm_ad_rules/blob/main/Trusted_Content.md)
 
 ## Check out Three Freelance Trainers - Discussing Training Ads and Training Topics
