@@ -27,7 +27,7 @@
 |[1_The_Little_SAS_Book_A_Primer_Third_Edition                        ](https://github.com/zeketorres/sm_ad_rules/blob/main/found_content/1_The_Little_SAS_Book_A_Primer_Third_Edition.pdf)                          |PDF  |
 |[2_SAS_Functions_by_Example_Second_Edition                           ](https://github.com/zeketorres/sm_ad_rules/blob/main/found_content/2_SAS_Functions_by_Example_Second_Edition.pdf)                             |PDF  |
 |[3_Analysis_of_Clinical_Trials_Using_SAS                             ](https://github.com/zeketorres/sm_ad_rules/blob/main/found_content/3_Analysis_of_Clinical_Trials_Using_SAS.pdf)                               |PDF  |
-|[4_Clinical_Trials_A_Practical_Guide_to_Design_Analysis_and_Reporting](https://github.com/zeketorres/sm_ad_rules/blob/main/found_content/4_Clinical_Trials_ A_Practical_Guide_to_Design_Analysis_and_Reporting.pdf) |PDF  |
+|[4_Clinical_Trials_A_Practical_Guide_to_Design_Analysis_and_Reporting](https://github.com/zeketorres/sm_ad_rules/blob/main/found_content/4_Clinical_Trials_A_Practical_Guide_to_Design_Analysis_and_Reporting.pdf) |PDF  |
 |[5_SAS_Programming_in_the_Pharmaceutical_Industry                    ](https://github.com/zeketorres/sm_ad_rules/blob/main/found_content/5_SAS_Programming_in_the_Pharmaceutical_Industry.pdf)                      |PDF  |
 |[6_Codys_Data_Cleaning_Techniques_Using_SAS                          ](https://github.com/zeketorres/sm_ad_rules/blob/main/found_content/6_Codys_Data_Cleaning_Techniques_Using_SAS.pdf)                            |PDF  |
 |[7_PROC_SQL_by_Example_Using                                         ](https://github.com/zeketorres/sm_ad_rules/blob/main/found_content/7_PROC_SQL_by_Example_Using.pdf)                                           |PDF  |
