@@ -67,20 +67,20 @@ These are common things we "hear"
 
 
 #### "im a freelance trainer and i don't need to have all this rules".
-Yes you do. You wish to be treated as a professional.  We get tired of dealing with your failed customers later that are upset.
+*Yes you do. You wish to be treated as a professional.  We get tired of dealing with your failed customers later that are upset.*
 
 
 #### "I'm a freelancer trainer with a Full Time Job - i do this on the side so i cant disclose my name or my real job will be upset".
-Then you aren't being professional.  If you don't understand that - too bad we don't have time to be your mentor.
+*Then you aren't being professional.  If you don't understand that - too bad we don't have time to be your mentor.*
 
 
 #### "I'm very good - i have a good reputation i don't need to follow these rules".
-We hear that all the time. But we have zero time to figure out who is who. You either are professional or not. Many other trainers have stepped up. So you need to step up too.
+*We hear that all the time. But we have zero time to figure out who is who. You either are professional or not. Many other trainers have stepped up. So you need to step up too.*
 
 
 #### "Let talk to you or email you and explain why this or that..."
-If you contact us to debate these rules - we just ban/block you.  You either KNOW why these rules are important or you are: a. trying to scam. b. immature as a trainer. c. combination of both a and b.
-We have groups to run and help keep useful conversations going - we can live without your clutter of immature posts.  And besides - we don't see you contributing useful content anyway so we can do without you all together.
+*If you contact us to debate these rules - we just ban/block you.  You either KNOW why these rules are important or you are: a. trying to scam. b. immature as a trainer. c. combination of both a and b.*
+*We have groups to run and help keep useful conversations going - we can live without your clutter of immature posts.  And besides - we don't see you contributing useful content anyway so we can do without you all together.*
 
 
 
