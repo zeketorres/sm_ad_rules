@@ -52,7 +52,7 @@ What is a "Sales" or "Advertising" post?
 | Class Prices                | Give facts on prices and any description on how refunds work or other items customers should be informed about |
 | Phone Numbers               | Useful phone numbers. We are not fans of just a post with Whatsap and zero urls. We do understand sometimes that is the only way - but then other facts should be present |
 | Reliable URLS               | In general we want people who view your post to be able to have a reliable way to verify your post. That goes for us as admins and moderators too. We often do check posts and the person posting. If we cant see consistent information and facts we may view the person as suspect |
-
+| Do Not Post too often       | Your class post, sales post - may be within our rules for one per 24 hour - however - it still may be deemed excessive if your post is cluttering other author content out. Our groups will never be allowed to have just one single "sales post" dominate our conversation. We'd rather have silence - than your desperate clutter.|
 
 
 ## Image Branding.
