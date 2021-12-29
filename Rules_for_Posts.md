@@ -4,24 +4,32 @@ These are rules for most posts.
 If your post is about Sales or Advertising you have more rules to follow.
 If you DO CHOOSE TO POST A SALES AD - See Below for Sales Ad Basics.
 
-| Rule                          | Description                                     |
-|-------------------------------|-------------------------------------------------|
-| Not Too Often                 | You should NOT post too often. when you do - we get suspicious. The easiest way to think of this... ONE POST PER 24hrs.  Look we know how hard it is to create new and fresh content. We value authors and those who contribute. But we know an ad when we see it. And so do you.|
-| No "Join Another Group"       | We will not tolerate a post that asks our members to join another group. We do however encourage you to simply consider having the conversation or topic in our group. After all thats why it was started and you are also on it. Violating this rule repeatedly will get you ban/blocked. |
-| No commission links           | We don't allow things like: udemy, korbit, neptune, medium, coursera. If we catch you trying to hide this - we likely will ban/block you.  We get that it's hard to make a living. But if we allow ONE post like this we suddenly need to allow many. And it's all the same ads over and over. |
-| No posts or links to PDF's.   | They can have viruses or other suspect issues. Not to mention copyright infringement. We won't allow our group to have social media platform rule violations shut down the group. |
-| Use of Images                 | DO NOT Violate Corporate Image Branding Rules. See below on branding. |
-| Post Ad in Comments           | DO NOT EVER - Post YOUR Ad or Sales Ad in the comments of SOMEONE else's Ad or Post.|
-| Same Ad Different People Post | DO NOT have multiple people post the same message from different profiles in close frequency. We will just deny all of them and consider you all together as spammers. |
-| Ban/Block Consequences        | If we banned you on one of our groups - we likely will and have banned you on all of our other groups. |
-| Repost something you saw      | You repost a post you saw somewhere else.  Yes yes - that meme you saw was really funny. Now you try to repost from some other group. We also saw it and will now get 50 people trying to post the same. We won't approve all or many of those. Dude - everyone saw the same thing. |
-| Post Ads - Not Helping Out    | If you don't contribute in the group with help to questions that are not sales - why should we allow you to post ads or sales posts? So that's why you probably don't get approved.|
-| Post about "I Did it!"        | A post about "I have a new certificate" - we just can't allow those.  We are all proud. But we need to focus on our group content.|
-| Asking for "Help" Post        | If you ask for "help" - describe the scenario as best you can.  And adding in "Admin please approve". We likely won't approve it. It screams of desperation from common scammers.|
-| Whatsapp / Telegram Posts     | If your post only has a "Whatsapp" or "telegram" phone as contact - we very likely WON'T approve it. More info and facts on identity are better. |
-| Don't Contact Admins Mods     | Don't try to contact the admins or moderators - we have zero time to debate this stuff.|
-| Rename yourself after ban     | Don't try to rename yourself or create a new profile - we monitor group activity with software and other tools. We will notice right away if not eventually. It wont work in your favor.|
-| Post under another profile    | Don't have some other friend or someone else on your team start to post your sales message if someone else was banned. We will get around to banning and blocking all of you.|
+| Rule                            | Description                                     |
+|---------------------------------|-------------------------------------------------|
+| Not Too Often                   | You should NOT post too often. when you do - we get suspicious. The easiest way to think of this... ONE POST PER 24hrs.  Look we know how hard it is to create new and fresh content. We value authors and those who contribute. But we know an ad when we see it. And so do you.|
+| No "Join Another Group"         | We will not tolerate a post that asks our members to join another group. We do however encourage you to simply consider having the conversation or topic in our group. After all thats why it was started and you are also on it. Violating this rule repeatedly will get you ban/blocked. |
+| No commission links             | We don't allow things like: udemy, korbit, neptune, medium, coursera. If we catch you trying to hide this - we likely will ban/block you.  We get that it's hard to make a living. But if we allow ONE post like this we suddenly need to allow many. And it's all the same ads over and over. |
+| Your Post Topic not Group Topic | Your post needs to easily fit into the general topic and purpose of the group.  One example of a decline - a SAP training post in a SAS group.|
+| No posts or links to PDF's.     | They can have viruses or other suspect issues. Not to mention copyright infringement. We won't allow our group to have social media platform rule violations shut down the group. |
+| Use of Images                   | DO NOT Violate Corporate Image Branding Rules. See below on branding. |
+| Post Ad in Comments             | DO NOT EVER - Post YOUR Ad or Sales Ad in the comments of SOMEONE else's Ad or Post.|
+| Same Ad Different People Post   | DO NOT have multiple people post the same message from different profiles in close frequency. We will just deny all of them and consider you all together as spammers. |
+| Ban/Block Consequences          | If we banned you on one of our groups - we likely will and have banned you on all of our other groups. |
+| Repost something you saw        | You repost a post you saw somewhere else.  Yes yes - that meme you saw was really funny. Now you try to repost from some other group. We also saw it and will now get 50 people trying to post the same. We won't approve all or many of those. Dude - everyone saw the same thing. |
+| Post Ads - Not Helping Out      | If you don't contribute in the group with help to questions that are not sales - why should we allow you to post ads or sales posts? So that's why you probably don't get approved.|
+| Post about "I Did it!"          | A post about "I have a new certificate" - we just can't allow those.  We are all proud. But we need to focus on our group content.|
+| Asking for "Help" Post          | If you ask for "help" - describe the scenario as best you can.  And adding in "Admin please approve". We likely won't approve it. It screams of desperation from common scammers.|
+| Whatsapp / Telegram Posts       | If your post only has a "Whatsapp" or "telegram" phone as contact - we very likely WON'T approve it. More info and facts on identity are better. |
+| Don't Contact Admins Mods       | Don't try to contact the admins or moderators - we have zero time to debate this stuff.|
+| Rename yourself after ban       | Don't try to rename yourself or create a new profile - we monitor group activity with software and other tools. We will notice right away if not eventually. It wont work in your favor.|
+| Post under another profile      | Don't have some other friend or someone else on your team start to post your sales message if someone else was banned. We will get around to banning and blocking all of you.|
+
+## Some FB Groups have Some Differences
+- Our rules are meant for the majority of the groups we admin and moderate.
+- However some groups have rule differences.
+- It is always best that you check the specific rules of each group.
+-- One example of a "difference" one of our groups does not allow youtube media - but the majority of the others are youtube friendly.
+
 
 
 ## Sales Ads
