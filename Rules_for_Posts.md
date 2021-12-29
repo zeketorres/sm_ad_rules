@@ -7,6 +7,7 @@ If you DO CHOOSE TO POST A SALES AD - See Below for Sales Ad Basics.
 | Rule                          | Description                                     |
 |-------------------------------|-------------------------------------------------|
 | Not Too Often                 | You should NOT post too often. when you do - we get suspicious. The easiest way to think of this... ONE POST PER 24hrs.  Look we know how hard it is to create new and fresh content. We value authors and those who contribute. But we know an ad when we see it. And so do you.|
+| No "Join Another Group"       | We will not tolerate a post that asks our members to join another group. We do however encourage you to simply consider having the conversation or topic in our group. After all thats why it was started and you are also on it. Violating this rule repeatedly will get you ban/blocked. |
 | No commission links           | We don't allow things like: udemy, korbit, neptune, medium, coursera. If we catch you trying to hide this - we likely will ban/block you.  We get that it's hard to make a living. But if we allow ONE post like this we suddenly need to allow many. And it's all the same ads over and over. |
 | No posts or links to PDF's.   | They can have viruses or other suspect issues. Not to mention copyright infringement. We won't allow our group to have social media platform rule violations shut down the group. |
 | Use of Images                 | DO NOT Violate Corporate Image Branding Rules. See below on branding. |
