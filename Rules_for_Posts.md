@@ -84,4 +84,10 @@ These are common things we "hear"
 *We have groups to run and help keep useful conversations going - we can live without your clutter of immature posts.  And besides - we don't see you contributing useful content anyway so we can do without you all together.*
 
 
+## Posts about Jobs
+If you had a post get declined or rejected and it was about "Jobs" here are common reasons why.
+- First most of the rules above apply.  So more information is always better.
+- Gmail or similar email.  If your post asks our members to share private information like CV, Resume, Email for a job but you do not provide valid facts - we see that as a risk to our membership. It will get declined.
+- Commission Links. If links to the job poing to a site for commission links - we cant approve the post. It's appreciated that you are sharing but these will lead to others copying and reposting. Our board is meant for content and reliable job facts.
+
 
