@@ -45,6 +45,7 @@ What is a "Sales" or "Advertising" post?
 | Basic Ad Info to Include    | Description                              |
 |-----------------------------|------------------------------------------|
 | Who is Who                  | Who are/is the trainer? We understand often its not possible to identify. But it is best to include as much information if you can |
+| Name of who gets Payment    | If someone is going to pay a fee, who is getting the payment and how is payment being made. Paypal, Venmo, Money Order, Credit Card? Your answer to this type of question gives everyone a chance to see how reliable you are.|
 | Links (reliable URLs)       | Company Website. Linkedin for People and/or company who you are. In other words - not only how can 'We' verify who you are - but how can your prospective customers. |
 | Company Name(s)             | Your company name or if available the name of the intended Trainer(s). |
 | More Facts                  | Class Dates, When Class will meet |
