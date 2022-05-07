@@ -24,6 +24,7 @@ If you DO CHOOSE TO POST A SALES AD - See Below for Sales Ad Basics.
 | Don't Contact Admins Mods       | Don't try to contact the admins or moderators - we have zero time to debate this stuff.|
 | Rename yourself after ban       | Don't try to rename yourself or create a new profile - we monitor group activity with software and other tools. We will notice right away if not eventually. It wont work in your favor.|
 | Post under another profile      | Don't have some other friend or someone else on your team start to post your sales message if someone else was banned. We will get around to banning and blocking all of you.|
+|Fiverr and Freelance Post/Ads | We really do wish that these can be allowed. We can't. These lead to competition of Fiverr Ads and worse - they choke the content. We do have empathy. We suggest you use smart responses to questions people have and - carefully - mention you are available for side hustle stuff. DO NOT make this excessive and go too far that it is deemed spammy or rude. |
 
 ## Some FB Groups have Some Differences
 - Our rules are meant for the majority of the groups we admin and moderate.
